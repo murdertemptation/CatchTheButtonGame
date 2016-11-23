@@ -1,0 +1,3 @@
+C:\Users\Murder Temptation\Documents\Visual Studio 2015\Projects\CatchTheButtonGame\bin\Debug\16.CatchTheButton.exe.config
+C:\Users\Murder Temptation\Documents\Visual Studio 2015\Projects\CatchTheButtonGame\obj\Debug\16.CatchTheButton.exe
+C:\Users\Murder Temptation\Documents\Visual Studio 2015\Projects\CatchTheButtonGame\obj\Debug\16.CatchTheButton.pdb
